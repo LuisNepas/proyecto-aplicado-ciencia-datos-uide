@@ -4,7 +4,7 @@
 
 | 🚀 ENLACE INTERACTIVO |
 | :---: |
-| [**👉 EJECUTAR PROYECTO EN GOOGLE COLAB 👈**](AQUÍ_PEGA_TU_ENLACE_DE_COLAB) |
+| [**👉 EJECUTAR PROYECTO EN GOOGLE COLAB 👈**](https://colab.research.google.com/drive/1TTA0_p_inRbDSWFoCl5dwGL14qn54lUa?usp=sharing) |
 
 ***
 

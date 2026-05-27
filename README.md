@@ -2,6 +2,13 @@
 # Prototipo Predictivo de Calidad del Aire - Estación Belisario
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TTA0_p_inRbDSWFoCl5dwGL14qn54lUa?usp=sharing)
+
+# Prototipo Predictivo de Calidad del Aire - Estación Belisario
+
+<a href="AQUÍ_PEGA_EL_ENLACE_QUE_COPIASTE_DE_COLAB" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
+
 Este repositorio contiene el desarrollo del proyecto aplicado de 340 horas para el Curso Preparatorio de la **Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial** de la **UIDE (Powered by Arizona State University)**.
 
 ## Descripción del Proyecto

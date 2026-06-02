@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TTA0_p_inRbDSWFoCl5dwGL14qn54lUa?usp=sharing) *(Para una mejor experiencia, abre el cuaderno haciendo **Clic Derecho ➔ Abrir enlace en una nueva pestaña**)*
 
-Este repositorio contiene el desarrollo del proyecto aplicado de 340 horas para el Curso Preparatorio de la **Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial** de la **UIDE (Powered by Arizona State University)**.
+Este repositorio contiene el desarrollo del proyecto aplicado de 340 horas para el Curso Preparatorio de la **Maestría en Inteligencia Artificial Aplicada** de la **UIDE (Powered by Arizona State University)**.
 
 ## Descripción del Proyecto
 El objetivo central de este proyecto es predecir las concentraciones de partículas finas ($PM_{2.5}$) utilizando datos históricos masivos (2010-2026) provistos por la REMMAQ. El sistema integra un pipeline completo de Ciencia de Datos: desde la ingesta y limpieza, pasando por la persistencia relacional en SQL, hasta el modelado predictivo mediante arquitecturas de Deep Learning.
